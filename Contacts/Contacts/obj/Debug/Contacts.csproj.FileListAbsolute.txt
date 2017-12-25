@@ -1,0 +1,11 @@
+C:\Emese\GITHUB\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Emese\GITHUB\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Emese\GITHUB\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Emese\GITHUB\Contacts\Contacts\bin\Debug\ContactsDB.mdf
+C:\Emese\GITHUB\Contacts\Contacts\bin\Debug\ContactsDB_log.ldf
+C:\Emese\GITHUB\Contacts\Contacts\bin\Debug\Contacts.exe.config
